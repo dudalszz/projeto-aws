@@ -1,2 +1,9 @@
-# projeto-aws
-exercício feito no modulo de ia do curso da aws
+# Projeto AWS 🖥️
+Atividadess realizadas durante o módulo de IA da Escola da Nuvem
+
+# Tecnologias e Ferramentas 📌
+Ferramentas utilizadas para o desenvolvimento do projeto:
+
+• Python
+
+• VSCode
